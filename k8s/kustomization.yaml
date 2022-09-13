@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: dcamppos83/gitopsfc
-  newTag: 4dc04026a049f8ab8fa2a9a9b3430e8591578caf
+  newTag: 7f3532dbc6156baf3205a36798058bf97c9fafc6
