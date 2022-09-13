@@ -7,5 +7,5 @@ resources:
 
 images:
 - name: goserver
-  newName: xpto
-  newTag: sha
+  newName: dcamppos83/gitopsfc
+  newTag: 4dc04026a049f8ab8fa2a9a9b3430e8591578caf
